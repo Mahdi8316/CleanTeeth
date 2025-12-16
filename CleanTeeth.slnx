@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="CleanTeeth.Domain/CleanTeeth.Domain.csproj" Id="8e2cbaeb-52bd-428e-838e-9ecce242f030" />
+  </Folder>
+</Solution>
