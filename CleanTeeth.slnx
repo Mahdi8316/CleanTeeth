@@ -2,4 +2,7 @@
   <Folder Name="/Core/">
     <Project Path="CleanTeeth.Domain/CleanTeeth.Domain.csproj" Id="8e2cbaeb-52bd-428e-838e-9ecce242f030" />
   </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="CleanTeeth.Tests/CleanTeeth.Tests.csproj" Id="5236209a-284b-4647-add1-32a206bd92e2" />
+  </Folder>
 </Solution>

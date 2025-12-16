@@ -26,4 +26,4 @@ namespace CleanTeeth.Domain.ValueObjects
         }
     }
 }
-}
+
